@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinApplicationHomeWork4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clicker">Clicker</string>
+    <string name="click_plus">+</string>
+    <string name="click_minus">-</string>
+    <string name="result_from_click">Результат</string>
+    <string name="results_get">Полученный результат</string>
+</resources>
